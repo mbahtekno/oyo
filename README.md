@@ -1,2 +1,1 @@
 # oyo
-php run.php
